@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Daniel Cruz
+
+## 👨🏻‍💻 About me
+Hi there! I'm Daniel Cruz, a computer engineering student at UAM and an active participant in projects at school 42. Passionate about coding and problem-solving, I love turning theoretical knowledge into practical solutions. Let's connect and explore the world of technology together! 💻✨
