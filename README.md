@@ -5,19 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on freelancing
+- 🌱 I’m currently learning in UAM computer engineering and former student in 42 Madrid
+- 👯 I’m looking to collaborate on startups, tech projects.
+- 🤔 I’m looking for help with business and law
+- 💬 Ask me about anything of the tech world
+- 📫 How to reach me: gmail: danicruzflex@gmail.com
 -->
 # Daniel Cruz
 
 ## 👨🏻‍💻 About me
-Hi there! I'm Daniel Cruz, a computer engineering student at UAM and an active participant in projects at school 42. Passionate about coding and problem-solving, I love turning theoretical knowledge into practical solutions. Let's connect and explore the world of technology together! 💻✨
+Hi there! I'm Daniel Cruz, I'm a computer scientist, software engineer and freelance, passionate about tech and solving problems. 
 
 ## 💼 Featured projects
 
@@ -26,6 +24,7 @@ Hi there! I'm Daniel Cruz, a computer engineering student at UAM and an active p
 - [Personal Projects](https://github.com/daniiflexx/Personal-Projetcts): Personal Projects
 
 #### 📖 Languages
+![Go](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey).
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
 ![Java](https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=grey&color=grey)
 ![Python](https://img.shields.io/badge/Python-a?style=for-the-badge&logo=python&color=grey)
@@ -41,6 +40,7 @@ Hi there! I'm Daniel Cruz, a computer engineering student at UAM and an active p
 
 #### 📦​ Frameworks
 ![Django](https://img.shields.io/badge/Django-a?style=for-the-badge&logo=django&color=grey)
+![FastAPI]
 
 #### 🛠 Other tools
 
